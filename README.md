@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Colab](https://img.shields.io/badge/Made%20With-Google%20Colab-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 # ✈️ Flight Delay Prediction and Weather Impact Analysis
 
 This project analyzes and predicts flight delays in the United States based on airline data, airport operations, and historical weather conditions.
