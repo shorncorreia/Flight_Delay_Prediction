@@ -54,7 +54,6 @@ Built using real-world datasets from NOAA and BTS, the project combines data ana
 
 ## 👥 Contributors
 - **Shorn Correia** 
-- **Cairn Correia** 
 
 ---
 
@@ -63,9 +62,6 @@ Built using real-world datasets from NOAA and BTS, the project combines data ana
   - [LinkedIn Profile](https://www.linkedin.com/in/shorn-correia/)
   - [Email](shorncorreia@gmail.com)
 
-- **Cairn Correia**  
-  - [LinkedIn Profile](https://www.linkedin.com/in/cairn-correia/)
-  - [Email](cairncorreia@gmail.com)
 ---
 
 ## 📌 How to Run the Project
